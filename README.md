@@ -8,7 +8,7 @@ I made an image captioning model using LSTM and encoder-decoder architecture on 
   margin-right: auto;
   width: 50%;">
   
- <img src="/images/image2.jpg" alt="Alt text" title="Optional title"style="
+ <img src="/images/image2.jpg" alt="Alt text" title="Optional title" style="
   display: block;
   margin-left: auto;
   margin-right: auto;
