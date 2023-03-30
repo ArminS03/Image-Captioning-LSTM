@@ -4,14 +4,12 @@ I made an image captioning model using LSTM and encoder-decoder architecture on 
 
  <img src="/images/image1.jpg" alt="Alt text" title="Optional title" style="
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 100px;
   width: 50%;">
   
  <img src="/images/image2.jpg" alt="Alt text" title="Optional title" style="
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 100px;
   width: 50%;">
 
 
